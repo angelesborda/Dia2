@@ -19,6 +19,7 @@ public class Blog {
 		continua="y";
 		do{
 			System.out.println ("Si desea ingresar un post, seleccione 1");
+			System.out.println ("Si desea visualizar los 10 posts mas recientes, seleccione 2");
 			System.out.println ("Si desea borrar un post, selecione 3");
 			System.out.println ("Si desea agregar Tag, selecione 4");
 			System.out.println ("Si desea salir, selecione 5");
