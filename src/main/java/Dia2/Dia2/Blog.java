@@ -110,5 +110,6 @@ public class Blog {
 			
 			}
 		}while(continua.equalsIgnoreCase("y"));
+		cont.close();
 	}
 }

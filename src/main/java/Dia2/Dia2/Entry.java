@@ -89,6 +89,7 @@ class Entry {
 			}
 			
 		}
+		cont.close();
 		return rta;
 	}
 
